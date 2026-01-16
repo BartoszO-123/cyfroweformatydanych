@@ -1,0 +1,15 @@
+{
+  "ticketId": "eIC-59203114",
+  "carrier": "PKP Intercity",
+  "trainNumber": "EIP 1305",
+  "route": {
+    "from": "Warszawa Centralna",
+    "to": "Kraków Główny"
+  },
+  "departureDate": "2024-06-15T09:20:00",
+  "seatNumber": 45,
+  "carNumber": 4,
+  "class": 2,
+  "pricePLN": 169.00,
+  "isDiscounted": false
+}

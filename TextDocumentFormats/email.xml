@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>jan.kowalski@przyklad.pl</sender>
+    <recipient>anna.nowak@firma.pl</recipient>
+    <subject>Spotkanie projektowe</subject>
+    <body>
+        Cześć Anno,
+        Przesyłam zaktualizowany harmonogram prac nad projektem.
+        Proszę o potwierdzenie odbioru.
+        
+        Pozdrawiam,
+        Jan Kowalski
+    </body>
+    <date>2024-01-25</date>
+</email>

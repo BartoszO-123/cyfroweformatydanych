@@ -1,0 +1,38 @@
+{
+  "solarSystem": {
+    "star": "Sun",
+    "ageBillionYears": 4.6,
+    "planets": [
+      {
+        "name": "Mercury",
+        "type": "Terrestrial",
+        "moons": 0,
+        "hasRings": false
+      },
+      {
+        "name": "Venus",
+        "type": "Terrestrial",
+        "moons": 0,
+        "hasRings": false
+      },
+      {
+        "name": "Earth",
+        "type": "Terrestrial",
+        "moons": 1,
+        "hasRings": false
+      },
+      {
+        "name": "Mars",
+        "type": "Terrestrial",
+        "moons": 2,
+        "hasRings": false
+      },
+      {
+        "name": "Jupiter",
+        "type": "Gas Giant",
+        "moons": 79,
+        "hasRings": true
+      }
+    ]
+  }
+}

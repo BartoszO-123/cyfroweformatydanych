@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="public" ecoFriendly="true">
+        <name>Tramwaj</name>
+        <manufacturer>Pesa</manufacturer>
+        <line>17</line>
+        <topSpeed unit="km/h">70</topSpeed>
+    </vehicle>
+
+    <vehicle type="private" ecoFriendly="false">
+        <name>Samochód osobowy</name>
+        <manufacturer>Toyota</manufacturer>
+        <model>Corolla</model>
+        <engineCapacity unit="L">1.8</engineCapacity>
+    </vehicle>
+
+    <vehicle type="personal" ecoFriendly="true">
+        <name>Rower górski</name>
+        <manufacturer>Kross</manufacturer>
+        <color>Czarny</color>
+        <gears>21</gears>
+    </vehicle>
+</transport>
