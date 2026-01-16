@@ -1,0 +1,30 @@
+# Laptop
+
+A laptop, sometimes called a notebook computer by manufacturers, is a battery- or AC-powered personal computer (PC) generally smaller than a briefcase. Laptops can be easily transported and used in temporary spaces such as on airplanes, in libraries, temporary offices, and at meetings.
+
+Laptops combine all the input/output components and capabilities of a desktop computer, including the display screen, small speakers, a keyboard, data storage device, sometimes an optical disc drive, pointing devices (such as a touchpad or pointing stick), with an operating system processor and memory into a single unit. More information can be found on [Wikipedia](https://en.wikipedia.org/wiki/Laptop).
+
+## Types of Laptops
+
+Traditional laptops are designed with a clamshell form factor, where the screen is on the inside of the upper lid and the keyboard is on the inside of the lower lid. They are versatile and can handle most computing tasks, ranging from basic web browsing to heavy video editing depending on the specifications.
+
+Convertible laptops, also known as 2-in-1s, have the ability to function as both a laptop and a tablet. These devices often feature a touch screen and a hinge that allows the screen to rotate 360 degrees or detach completely from the keyboard base. They offer great flexibility for creative work and media consumption.
+
+Ultrabooks are a high-end subnotebook specification defined by Intel. They are designed to be thin, light, and have long battery life without compromising too much on performance. Ultrabooks typically use low-power processors and solid-state drives to achieve their slim profile and responsiveness.
+
+## Laptop Hardware
+
+The hardware of a laptop is similar to that of a desktop computer but miniaturized and optimized for power efficiency and heat management. Components are tightly integrated into the chassis, making upgrades more difficult than in desktops. The cooling system is critical due to the confined space.
+
+Key components include the central processing unit (CPU), which is the brain of the computer, and the random access memory (RAM), which stores temporary data. The display panel is also a crucial part, determining the visual quality and power consumption of the device.
+
+1.  [Central Processing Unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit)
+2.  [Random Access Memory (RAM)](https://en.wikipedia.org/wiki/Random-access_memory)
+3.  Solid State Drive (SSD)
+4.  Display Screen (LCD or OLED)
+5.  Battery
+
+## Top Manufacturers
+* Lenovo
+* HP (Hewlett-Packard)
+* Dell
